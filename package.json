@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "A profile generator for teams",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavila6/team-profile-generator.git"
+  },
+  "author": "Marco Avila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mavila6/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/mavila6/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.2.0"
+  }
+}
