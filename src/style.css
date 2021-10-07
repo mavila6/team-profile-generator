@@ -1,0 +1,25 @@
+.container {
+    padding: 40px;
+    margin: 45px;
+}
+
+.card  {
+    border-radius: 10px;
+    margin: 4px;
+    max-height: 280px;
+    max-width: 15rem;
+    transform: translateZ(0);
+    box-shadow: 0 5px 10px 0 black;
+}
+
+.card-header{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    max-height: 200px;
+    max-width: 15rem;
+}
+
+.card-body{
+    background-color: rgb(228, 225, 225);
+    max-height: 200px;
+}
