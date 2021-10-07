@@ -21,7 +21,6 @@ A web application that helps managers generate a webpage that displays their tea
 ![Javascript](https://img.shields.io/badge/JavaScript-brightgreen.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-blueviolet.svg)
 ![Express.js](https://img.shields.io/badge/Express.js-ff69b4.svg)
-![JQuery](https://img.shields.io/badge/JQuery-green.svg)
 
 ### Installation
 
