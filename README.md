@@ -8,7 +8,7 @@ A web application that helps managers generate a webpage that displays their tea
 
 - [Built With](#built-with)
 - [Installation](#installation)
-- [Walkthrough Video](#walkthrough-video)
+- [Screenshots](#screenshots)
 - [Tests](#tests)
 - [Acknowledgements](#acknowledgements)
 - [Questions](#questions)
@@ -29,11 +29,12 @@ Clone the repository in the CLI: `git clone https://github.com/mavila6/team-prof
 
 ### Usage
 
-Run `npm start` in the command line to initiate the server. Answer the following prompts to generate your team page.
+Run `node index` in the command line to initiate the server. Answer the following prompts to generate your team page.
 
-### Walkthrough-Video
+### Screenshots
 
-![Walkthrough Video](/)
+![tests](./src/images/tests.png)
+![prompts](./src/images/prompts.png)
 
 ### Tests
 

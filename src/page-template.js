@@ -70,7 +70,7 @@ const generateIntern = intern => {
 function generateHTML(teamInfo) {
     for (let i=0; i < teamInfo.length; i++){
         if (teamInfo[i].getRole() === "Manager"){
-            mana += generateManager(teamInfo[i]);
+            manny += generateManager(teamInfo[i]);
         } else if (teamInfo[i].getRole() === "Engineer"){
             eng += generateEngineer(teamInfo[i]);
         } else if(teamInfo[i].getRole() === "Intern"){
